@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Derryblinks
-- 👀 I’m interested in web designing, Mobile app development and Graphic designing
+- 👀 I’m interested in web design, Mobile app development and Graphic designing
 - 🌱 I’m currently learning software development  
 - 💞️ I’m eargerly looking to collaborate on projects that beautifully merge design aesthetics with cutting-edge technology.
 - 📫 How to reach me; email:db723252@gmail.com, Whatsapp: 0592739947...
