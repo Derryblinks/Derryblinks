@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    align-items: center;
+    position: center;
+    background-color: white;
+}
+
+.Big{
+    margin-top:50px;
+    font-family: "poppins","Bebas Neue", sans-serif;
+    font-size:larger;
+    /* text-shadow: 1px 2px 4px black; */
+}
+
+.img{
+    margin-top:5px;
+    
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 50px;
+}
+
+
+/* 
+.small{
+    margin-left:-60px;
+    line-height: 0.9;
+} */
+
+/* 
+.large{
+    background-color: black;
+    color:white;
+    height: 35px;
+    width: 75px;
+    border:none;
+    outline:none;
+}
+ */
